@@ -1,0 +1,7 @@
+# datasets are not redistributed (see data/README.md)
+data/*.csv
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
